@@ -63,7 +63,7 @@ The **Analog Function Generator** is based on an analog oscillator that creates 
 ---
 
 ## 📊 Output Results
-[Embed oscilloscope screenshots or photos of the output waveforms showing the various generated waveforms.]
+[Embed oscilloscope screenshots or photos of the output waveforms showing the various generated waveforms.](Images/WhatsApp Image 2023-12-06 at 13.45.36_7bee3654.jpg)
 
 ---
 
