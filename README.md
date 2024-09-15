@@ -1,6 +1,8 @@
 # 📡 Analog Function Generator
 
-![Function Generator](https://github.com/lasithhaputhanthri/your-repo-name/blob/main/assets/function-generator.jpg)
+<img src="./Images/WhatsApp Image 2023-12-06 at 09.40.12_db9edf71.jpg" alt="Square Wave" width="800"/>
+*Caption: Analog Function Generator.*
+
 
 ## 🚀 Project Overview
 The **Analog Function Generator** is a versatile, open-source tool designed for electronics enthusiasts. It generates multiple waveforms—sine, square, PWM, triangle, and sawtooth—with an adjustable amplitude of 0-12V and a frequency range of 20Hz to 20,000Hz. The device is compact, portable, and ideal for testing and development in analog electronics.
@@ -32,23 +34,19 @@ The **Analog Function Generator** is a versatile, open-source tool designed for 
 ---
 
 ## ⚙️ How It Works
-The **Analog Function Generator** is based on an analog oscillator that creates the base waveform. This waveform is processed through a series of filters and amplifiers, shaped into different waveforms—sine, square, PWM, triangle, and sawtooth. The output's amplitude and frequency are controlled by potentiometers, providing fine-tuned waveform customization.
+The **Analog Function Generator** is based on an analog oscillator that creates the base waveform. This waveform is processed through filters and amplifiers, and shaped into different waveforms—sine, square, PWM, triangle, and sawtooth. The output's amplitude and frequency are controlled by potentiometers, providing fine-tuned waveform customization.
 
 ---
 
 ## 📷 Project Photos
 
 ### PCB Photo
-![PCB Photo](https://github.com/lasithhaputhanthri/your-repo-name/blob/main/assets/pcb-photo.jpg)
-*Caption: PCB designed for the Analog Function Generator.*
-
-### Device Photo
-![Device Photo](https://github.com/lasithhaputhanthri/your-repo-name/blob/main/assets/device-photo.jpg)
-*Caption: Compact and portable Analog Function Generator.*
+<img src="./Images/FG.png" alt="Sine Wave" width="400"/>
+*Caption: PCB of the Analog Function Generator.*
 
 ### Team Photo
-![Team Photo](https://github.com/lasithhaputhanthri/your-repo-name/blob/main/assets/team-photo.jpg)
-*Caption: The team behind the Analog Function Generator project.*
+<img src="./Images/1711459544985.jpeg" alt="Sine Wave" width="400"/>
+*Caption: The Team.*
 
 ---
 
